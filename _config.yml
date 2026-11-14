@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &amp;name "Junteng Liu"
-description              : &amp;description "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
+name                     : &name "Junteng Liu"
+description              : &description "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing and machine learning."
 url                      : https://WeightCorporate.github.io
 baseurl                  : "/LJT-Homepage"
 repository               : "WeightCorporate/LJT-Homepage"
@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         : 
   arxiv            : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&amp;user=tbK9jl4AAAAJ&amp;view_op=list_works&amp;sortby=pubdate"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      : 
   impactstory      : 
   orcid            : 
